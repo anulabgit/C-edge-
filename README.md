@@ -3,9 +3,11 @@
 ![image](https://github.com/anulabgit/C-edge-/assets/127391777/d1138e84-7469-4b1b-a875-dd097d8c29e1)
 
 2. 링커 -> 일반 -> 추가 라이브러리 디렉터리
-![image](https://github.com/anulabgit/C-edge-/assets/127391777/71140245-43f2-409a-bdb5-fdcd82b4873a)
+![image](https://github.com/anulabgit/C-edge-/assets/127391777/1d238fc2-ac35-457a-b822-e16ae2cd4323)
+![image](https://github.com/anulabgit/C-edge-/assets/127391777/716cc39f-e344-4cce-b826-40bbf24d4538)
 
-3. 링커-> 입력 -> 추가종속성
+
+4. 링커-> 입력 -> 추가종속성
 https://github.com/anulabgit/C-edge-/assets/127391777/364e9ed5-1f93-4aac-99de-98f56f7ea585
 
 
