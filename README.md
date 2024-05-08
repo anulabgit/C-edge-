@@ -12,6 +12,9 @@
 ![image](https://github.com/anulabgit/C-edge-/assets/127391777/b98e251b-7e92-4158-b3ee-ba72e571e368)
 ![image](https://github.com/anulabgit/C-edge-/assets/127391777/f3ce11a0-f8d7-47ba-83cb-6dc9e58ac962)
 
+5. 명령행 매개변수를 설정
+![image](https://github.com/anulabgit/C-edge-/assets/127391777/f59047df-3ab7-49b6-ad36-bcc91ae24c01)
+
 입력영상과 테스트 영상<br>
 
 https://github.com/anulabgit/C-edge-/assets/127391777/bff675df-3089-4061-9d14-69f41d94658e
