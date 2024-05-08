@@ -12,4 +12,5 @@
 ![image](https://github.com/anulabgit/C-edge-/assets/127391777/b98e251b-7e92-4158-b3ee-ba72e571e368)
 ![image](https://github.com/anulabgit/C-edge-/assets/127391777/f3ce11a0-f8d7-47ba-83cb-6dc9e58ac962)
 
-
+입력영상과 테스트 영상
+https://github.com/anulabgit/C-edge-/assets/127391777/ef259937-0c38-441b-9275-a607c1b8e3c5
