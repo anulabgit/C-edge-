@@ -6,8 +6,8 @@
 ![image](https://github.com/anulabgit/C-edge-/assets/127391777/b6c7e0fe-be70-4d39-bbb5-2222e11561c6)
 ![image](https://github.com/anulabgit/C-edge-/assets/127391777/716cc39f-e344-4cce-b826-40bbf24d4538)
 
-
-4. 링커-> 입력 -> 추가종속성
-https://github.com/anulabgit/C-edge-/assets/127391777/364e9ed5-1f93-4aac-99de-98f56f7ea585
+3. 링커-> 입력 -> 추가종속성
+![image](https://github.com/anulabgit/C-edge-/assets/127391777/b98e251b-7e92-4158-b3ee-ba72e571e368)
+![image](https://github.com/anulabgit/C-edge-/assets/127391777/f3ce11a0-f8d7-47ba-83cb-6dc9e58ac962)
 
 
